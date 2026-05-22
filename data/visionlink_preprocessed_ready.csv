@@ -1,0 +1,201 @@
+Student_ID,Gender,Degree_Program,Type_of_Visual_Impairment,Severity_Level,Braille_Usage,Screen_Reader_Usage,Magnification_Tools,Audio_Books_Usage,Scholarship_Status,Socioeconomic_Status,Age,Semester,Age_of_Onset,Internet_Accessibility,Assistive_Tech_Availability,Training_on_Assistive_Tools,Institutional_Support_Rating,Family_Support_Level,Study_Hours_Per_Day,Attendance_Rate,Assignment_Completion_Rate,Stress_Level,Sleep_Hours,Accessibility_Barriers_Score,Classroom_Accessibility,Teacher_Support_Rating,Peer_Support_Level,Academic_Performance,Tech_Adoption_Index,Support_Barrier_Ratio,Academic_Friction
+VIS001,Female,Economics,Color Blindness,Moderate,Yes,Low,Medium,Occasional,No,High,18.0,5.0,8.0,10.0,3.0,10.0,6.0,5.0,6.4,67.0,47.0,1.0,4,4.0,10.0,6.0,3.0,2.98,5,2.4,0.2
+VIS002,Female,English Literature,Progressive Vision Loss,Mild,No,High,High,Frequent,No,Low,18.0,3.0,4.0,5.0,7.0,2.0,9.0,7.0,8.3,45.0,61.6,2.0,6,6.0,6.0,8.0,4.0,3.23,9,2.4285714285714284,0.2857142857142857
+VIS003,Female,Law,Low Vision,Moderate,Yes,Low,Medium,Occasional,Yes,High,25.6,6.0,19.4,6.0,3.0,4.0,6.0,3.0,4.3,95.0,51.0,7.0,5,6.0,4.0,4.0,5.0,2.39,5,1.4285714285714286,1.1666666666666667
+VIS004,Female,English Literature,Partial Blindness,Moderate,No,Medium,Medium,Occasional,Yes,Low,20.0,8.0,9.0,2.0,5.0,1.0,9.0,6.0,2.9,91.0,65.0,7.0,5,4.0,7.0,7.0,7.0,2.5,5,3.2,1.1666666666666667
+VIS005,Female,Business Administration,Color Blindness,Moderate,No,High,Medium,Frequent,No,High,26.0,5.0,13.0,4.0,10.0,8.0,9.0,8.0,8.1,45.0,93.0,1.0,8,3.0,4.0,9.0,5.0,3.46,8,4.5,0.1111111111111111
+VIS006,Female,Law,Progressive Vision Loss,Mild,No,High,High,Frequent,Yes,Low,26.0,1.0,20.0,6.0,8.0,7.0,4.0,8.0,9.2,69.0,45.0,5.0,9,3.0,10.0,7.0,3.0,3.24,9,2.75,0.5
+VIS007,Female,English Literature,Progressive Vision Loss,Moderate,Yes,Medium,Medium,Frequent,No,High,20.0,1.0,6.0,7.0,6.0,4.0,8.0,3.0,8.3,43.0,60.0,10.0,9,2.0,9.0,10.0,3.0,2.57,8,6.0,1.0
+VIS008,Female,Business Administration,Low Vision,Severe,Yes,High,Medium,Frequent,Yes,Low,24.0,4.0,8.0,9.0,10.0,8.0,6.0,7.4,3.1,47.0,60.0,4.0,4,1.0,10.0,7.0,7.0,2.42,9,6.5,0.8
+VIS009,Female,Computer Science,Low Vision,Severe,No,High,Medium,Frequent,No,High,19.0,4.0,2.0,4.0,9.0,4.0,7.0,6.0,4.2,90.0,75.0,7.0,5,2.0,8.0,10.0,10.0,2.57,8,5.666666666666667,1.1666666666666667
+VIS010,Female,Education,Partial Blindness,Moderate,Yes,Medium,Medium,Occasional,No,Middle,19.0,4.0,14.0,7.4,4.0,5.0,6.0,10.0,1.5,69.0,60.0,2.0,6,9.0,3.0,6.0,4.0,2.36,6,1.2,0.2857142857142857
+VIS011,Female,Computer Science,Progressive Vision Loss,Mild,No,High,High,Frequent,Yes,High,24.0,1.0,24.0,6.0,9.0,5.0,5.0,3.0,2.7,67.0,89.0,9.0,7,8.0,4.0,9.0,8.0,2.61,9,1.5555555555555556,1.125
+VIS012,Female,Social Sciences,Progressive Vision Loss,Moderate,No,Low,Medium,Occasional,No,Middle,18.0,8.0,17.0,3.0,3.0,4.0,5.0,4.0,6.6,65.0,52.0,10.0,5,10.0,2.0,3.0,4.0,1.91,4,0.7272727272727273,1.6666666666666667
+VIS013,Female,Economics,Total Blindness,Mild,No,High,High,Frequent,No,Low,29.0,6.0,5.0,6.0,9.0,6.0,6.0,9.0,1.7,99.0,93.0,2.0,4,10.0,3.0,7.0,4.0,3.14,9,1.1818181818181819,0.4
+VIS014,Female,Economics,Partial Blindness,Severe,Yes,High,Medium,Frequent,No,High,23.0,5.0,9.0,2.0,10.0,5.0,5.0,7.0,2.0,99.0,87.0,2.0,9,3.0,6.0,10.0,10.0,2.78,9,3.75,0.2
+VIS015,Female,Physics,Progressive Vision Loss,Mild,No,High,High,Frequent,Yes,Low,23.0,4.0,1.0,3.0,8.0,5.0,7.0,7.0,7.7,42.0,45.0,6.0,8,5.0,4.0,10.0,2.0,2.81,9,2.8333333333333335,0.6666666666666666
+VIS016,Female,Physics,Progressive Vision Loss,Severe,No,Low,Medium,Occasional,Yes,Low,29.0,3.0,12.4,4.0,2.0,5.0,3.0,5.0,7.0,63.0,95.0,1.0,8,4.0,5.0,8.0,8.0,2.79,4,2.2,0.1111111111111111
+VIS017,Female,Law,Partial Blindness,Severe,No,Medium,Medium,Occasional,Yes,High,30.0,3.0,8.0,8.0,5.0,5.0,9.0,5.0,3.0,50.0,95.0,2.0,6,1.0,9.0,3.0,7.0,2.58,5,6.0,0.2857142857142857
+VIS018,Female,Education,Low Vision,Mild,No,High,High,Frequent,No,Middle,23.0,5.0,20.0,8.0,4.4,6.0,4.0,8.0,6.2,100.0,46.0,2.0,8,5.0,4.0,7.0,10.0,3.51,9,1.8333333333333333,0.2222222222222222
+VIS019,Female,Education,Low Vision,Moderate,No,High,Medium,Frequent,No,High,23.0,7.0,10.0,2.0,8.0,1.0,4.0,6.0,5.72,73.0,96.0,9.0,7,4.0,7.0,9.0,6.0,2.63,8,2.6,1.125
+VIS020,Female,English Literature,Color Blindness,Moderate,No,Medium,Medium,Frequent,Yes,High,24.0,5.0,22.0,4.0,6.0,7.0,5.0,9.0,8.1,75.0,98.0,1.0,6,4.0,8.0,6.0,8.0,3.53,7,2.2,0.14285714285714285
+VIS021,Female,Physics,Progressive Vision Loss,Moderate,Yes,Medium,Medium,Frequent,No,Middle,30.0,3.0,7.0,5.0,6.0,4.0,4.0,8.0,6.5,91.0,57.0,3.0,4,7.0,9.0,7.0,3.0,3.0,8,1.375,0.6
+VIS022,Female,Social Sciences,Progressive Vision Loss,Moderate,No,High,Medium,Frequent,No,Low,20.0,1.0,14.0,10.0,9.0,1.0,4.0,6.0,9.9,75.0,60.0,2.0,6,8.0,10.0,9.0,4.0,3.14,8,1.4444444444444444,0.2857142857142857
+VIS023,Female,Education,Partial Blindness,Moderate,Yes,High,Medium,Occasional,Yes,High,25.0,8.0,13.0,9.0,5.0,5.0,7.0,7.0,9.0,68.0,49.0,5.0,5,6.0,7.0,6.0,10.0,2.93,7,1.8571428571428572,0.8333333333333334
+VIS024,Female,Law,Color Blindness,Mild,No,High,High,Frequent,Yes,Low,24.0,7.0,14.0,5.0,8.0,7.0,8.0,9.0,5.3,97.0,94.0,10.0,9,1.0,8.0,10.0,2.0,3.41,9,9.0,1.0
+VIS025,Female,Psychology,Color Blindness,Mild,No,High,High,Frequent,Yes,Middle,24.0,8.0,6.0,4.0,9.0,3.0,3.0,8.0,1.8,79.0,79.0,1.0,8,10.0,2.0,9.0,8.0,2.91,9,1.0909090909090908,0.1111111111111111
+VIS026,Female,Education,Partial Blindness,Moderate,Yes,Medium,Medium,Frequent,Yes,Low,21.0,8.0,17.8,8.0,6.0,5.2,8.0,9.0,6.9,70.0,46.0,9.0,4,6.0,5.0,8.0,6.0,2.48,8,2.2857142857142856,1.8
+VIS027,Female,Education,Low Vision,Mild,No,Low,High,Occasional,Yes,Low,28.0,2.0,19.0,4.0,3.0,3.0,6.0,7.0,4.6,59.0,51.0,10.0,4,5.0,8.0,10.0,7.0,2.43,5,2.6666666666666665,2.0
+VIS028,Female,Psychology,Color Blindness,Moderate,No,High,Medium,Frequent,No,High,22.0,4.4,6.0,3.0,10.0,6.0,3.0,9.0,9.6,79.4,99.0,7.0,8,2.0,8.0,8.0,7.0,3.18,8,3.6666666666666665,0.7777777777777778
+VIS029,Female,Psychology,Color Blindness,Severe,No,Low,Medium,Occasional,No,Middle,26.0,8.0,7.0,5.0,3.0,5.0,10.0,7.0,4.0,96.0,73.0,4.0,8,10.0,8.0,9.0,7.0,2.29,4,1.7272727272727273,0.4444444444444444
+VIS030,Female,Education,Color Blindness,Moderate,Yes,High,Medium,Frequent,No,Middle,27.0,5.0,23.0,8.0,9.0,9.0,3.0,4.0,8.1,88.0,60.0,8.0,7,8.0,9.0,6.0,5.0,2.76,9,1.0,1.0
+VIS031,Female,Education,Color Blindness,Moderate,Yes,Medium,Medium,Frequent,No,Low,23.0,8.0,9.0,9.0,6.0,5.0,8.0,8.0,7.7,56.0,59.0,2.0,8,6.0,4.6,9.0,7.0,3.03,8,2.4285714285714284,0.2222222222222222
+VIS032,Female,Law,Color Blindness,Severe,Yes,Medium,Medium,Occasional,No,Middle,22.0,4.0,16.0,6.2,4.0,5.0,8.0,7.0,1.9,42.0,48.0,9.0,6,3.0,9.0,5.0,2.0,1.58,6,3.25,1.2857142857142858
+VIS033,Female,Business Administration,Progressive Vision Loss,Mild,No,Low,High,Occasional,Yes,High,18.0,5.0,14.0,9.0,3.0,10.0,10.0,4.0,1.8,80.0,88.0,1.0,5,10.0,6.0,4.0,8.0,3.05,5,1.2727272727272727,0.16666666666666666
+VIS034,Female,Social Sciences,Color Blindness,Moderate,No,Medium,Medium,Occasional,Yes,Low,25.0,5.0,10.0,5.0,5.0,5.0,9.0,3.0,2.4,82.0,50.0,3.0,5,9.0,3.0,7.0,3.0,2.31,5,1.6,0.5
+VIS035,Female,Social Sciences,Progressive Vision Loss,Mild,No,High,High,Occasional,No,Low,22.0,8.0,10.0,8.0,3.0,9.0,4.0,7.0,1.5,54.0,86.0,3.0,8,3.0,3.0,6.0,5.0,2.544,7,2.5,0.3333333333333333
+VIS036,Female,Computer Science,Partial Blindness,Moderate,No,High,Medium,Frequent,No,Middle,22.0,7.0,16.0,2.0,8.0,6.0,7.0,10.0,10.0,78.0,61.0,1.0,4,10.0,2.0,10.0,3.0,3.15,8,1.5454545454545454,0.2
+VIS037,Female,Economics,Low Vision,Mild,No,High,High,Frequent,Yes,Middle,27.0,7.0,15.0,8.0,7.0,6.0,10.0,10.0,7.0,82.0,51.0,3.0,6,8.0,6.0,4.0,7.0,3.25,9,1.5555555555555556,0.42857142857142855
+VIS038,Female,Law,Color Blindness,Mild,No,High,High,Frequent,No,Low,19.0,7.0,16.0,5.0,10.0,6.0,3.0,6.6,3.4,79.0,93.0,8.0,7,1.0,5.0,10.0,2.0,3.2,9,6.5,1.0
+VIS039,Female,Law,Color Blindness,Severe,No,Low,Medium,Occasional,No,Middle,27.0,4.0,27.0,8.0,3.0,4.0,5.0,3.0,9.4,93.0,52.0,8.0,9,3.0,9.0,7.0,10.0,2.6,4,3.0,0.8
+VIS040,Female,Social Sciences,Color Blindness,Mild,No,High,High,Frequent,No,High,26.0,3.0,5.0,6.0,8.0,6.2,9.0,5.0,7.5,99.0,95.0,9.0,5,1.0,6.0,6.0,5.4,3.59,9,7.5,1.5
+VIS041,Female,Computer Science,Partial Blindness,Moderate,Yes,Medium,Medium,Occasional,No,Low,23.0,7.0,17.0,8.0,5.0,7.0,10.0,6.0,9.9,42.0,65.0,8.0,8,7.0,8.0,8.0,5.0,2.71,6,2.25,0.8888888888888888
+VIS042,Female,English Literature,Progressive Vision Loss,Severe,No,Low,Medium,Frequent,Yes,Low,25.0,2.0,2.0,4.0,7.4,8.0,10.0,5.0,8.7,90.0,61.0,6.0,7,7.0,3.0,3.0,8.0,2.52,6,1.625,0.75
+VIS043,Female,Education,Progressive Vision Loss,Moderate,No,Medium,Medium,Occasional,Yes,Low,22.0,4.0,14.0,9.0,4.0,5.0,4.0,4.0,4.2,97.0,46.0,1.0,7,1.0,6.0,9.0,3.0,3.08,5,6.5,0.125
+VIS044,Female,Business Administration,Color Blindness,Mild,No,Medium,High,Frequent,No,High,27.0,7.0,12.0,9.0,6.0,8.0,6.0,5.0,7.1,56.0,87.0,1.0,8,5.8,6.0,10.0,5.0,3.42,8,2.3529411764705883,0.1111111111111111
+VIS045,Female,Computer Science,Progressive Vision Loss,Severe,No,Low,Medium,Occasional,Yes,High,29.0,5.0,28.0,9.0,3.0,4.0,6.0,6.0,9.8,64.0,81.0,6.0,7,5.0,2.0,7.0,6.6,2.74,4,2.1666666666666665,0.75
+VIS046,Female,Physics,Partial Blindness,Moderate,No,Low,Medium,Occasional,Yes,High,22.0,4.0,7.0,5.0,3.0,1.0,8.0,6.0,1.8,59.0,95.0,8.0,4,6.0,4.0,6.0,6.0,2.2,4,2.0,1.6
+VIS047,Female,Law,Progressive Vision Loss,Severe,No,Low,Medium,Occasional,No,Middle,23.0,5.0,4.0,7.0,3.0,8.0,5.0,10.0,4.3,44.0,54.0,4.0,8,7.0,10.0,6.6,5.6,1.99,4,1.45,0.4444444444444444
+VIS048,Female,Law,Color Blindness,Moderate,No,Low,Medium,Occasional,Yes,Low,28.0,5.0,4.0,9.0,2.0,10.0,9.0,6.8,6.7,96.0,80.0,6.0,9,4.0,3.0,8.0,5.0,3.18,4,3.4,0.6
+VIS049,Female,Physics,Total Blindness,Severe,No,High,Medium,Frequent,No,Low,26.4,8.0,2.0,4.0,8.0,8.0,4.0,6.0,6.9,63.0,87.0,9.0,6,3.0,8.0,4.0,10.0,2.45,8,2.0,1.2857142857142858
+VIS050,Female,Psychology,Progressive Vision Loss,Moderate,No,Medium,Medium,Frequent,Yes,High,21.0,6.0,7.0,8.0,6.0,4.0,4.0,8.0,1.5,47.0,99.0,8.0,4,4.0,2.0,8.0,2.0,2.34,7,2.4,1.6
+VIS051,Female,Social Sciences,Total Blindness,Mild,No,Medium,High,Occasional,Yes,Middle,21.0,4.0,1.0,4.0,4.0,9.0,8.0,3.0,1.1,56.0,79.8,3.0,4,1.0,4.0,5.0,6.0,3.08,6,6.5,0.6
+VIS052,Female,Economics,Total Blindness,Mild,No,High,High,Frequent,Yes,Low,29.0,7.0,15.0,7.0,10.0,10.0,4.0,10.0,7.5,46.0,73.0,9.0,5,10.0,2.0,4.0,9.0,2.78,9,0.7272727272727273,1.5
+VIS053,Female,Economics,Total Blindness,Severe,No,High,Medium,Frequent,No,Low,24.0,7.0,15.0,3.0,7.0,10.0,4.0,10.0,7.4,49.0,49.0,3.0,5,10.0,8.0,10.0,3.0,2.17,8,1.2727272727272727,0.5
+VIS054,Female,English Literature,Low Vision,Severe,Yes,High,Medium,Frequent,Yes,Low,19.0,4.0,3.0,7.0,9.0,7.0,9.0,6.0,4.4,66.0,91.0,2.0,6,6.0,6.0,10.0,8.0,2.73,9,2.7142857142857144,0.2857142857142857
+VIS055,Female,English Literature,Partial Blindness,Moderate,Yes,High,Medium,Frequent,Yes,Middle,29.0,6.0,28.0,8.0,7.0,7.0,5.0,8.0,4.2,95.0,91.0,1.0,9,10.0,6.0,3.0,3.0,2.98,9,0.7272727272727273,0.1
+VIS056,Female,Psychology,Partial Blindness,Severe,No,Low,Medium,Occasional,No,Low,23.0,2.0,19.0,10.0,2.0,10.0,7.0,9.0,9.3,99.0,87.0,5.0,4,5.0,6.0,6.0,10.0,3.16,4,2.1666666666666665,1.0
+VIS057,Female,Psychology,Progressive Vision Loss,Mild,No,High,High,Frequent,Yes,Middle,28.0,1.0,2.0,9.0,7.0,3.0,4.0,9.0,9.0,63.0,64.0,6.0,8,7.2,3.0,6.0,8.0,3.0,9,1.2195121951219514,0.6666666666666666
+VIS058,Female,Education,Color Blindness,Moderate,No,Low,Medium,Occasional,Yes,Low,24.0,8.0,20.0,10.0,3.0,6.0,10.0,7.0,5.7,67.0,52.0,5.0,7,10.0,9.0,9.0,5.0,2.49,4,1.7272727272727273,0.625
+VIS059,Female,Mathematics,Low Vision,Mild,No,High,High,Frequent,Yes,Low,21.0,3.0,14.6,2.0,9.0,7.0,7.0,8.0,6.0,51.0,53.0,7.0,7,4.0,10.0,7.0,3.0,2.8,9,2.8,0.875
+VIS060,Female,Education,Color Blindness,Mild,No,High,High,Frequent,No,High,19.0,6.0,19.0,3.0,8.0,1.0,9.0,9.0,4.9,60.0,55.0,7.6,6,6.0,3.0,9.0,6.0,2.502,9,2.5714285714285716,1.0857142857142856
+VIS061,Female,Education,Partial Blindness,Mild,No,High,High,Occasional,Yes,High,22.0,6.0,20.0,10.0,3.0,9.0,6.0,5.0,1.9,64.6,57.0,6.0,6,3.0,5.0,8.0,3.0,2.79,7,3.5,0.8571428571428571
+VIS062,Female,Law,Color Blindness,Mild,No,High,High,Frequent,Yes,Low,30.0,8.0,15.0,4.0,9.0,2.0,10.0,8.0,4.2,70.0,73.0,5.0,6,10.0,2.0,10.0,7.0,2.82,9,1.8181818181818181,0.7142857142857143
+VIS063,Female,Mathematics,Low Vision,Moderate,No,High,Medium,Frequent,Yes,Low,22.0,2.0,17.0,2.0,9.0,10.0,4.0,10.0,9.6,81.0,57.0,6.0,7,9.0,4.0,9.0,5.8,2.99,8,1.3,0.75
+VIS064,Female,Physics,Total Blindness,Mild,No,High,High,Frequent,Yes,Low,25.0,8.0,9.0,8.0,8.0,6.0,5.0,8.0,4.0,83.0,83.0,1.0,8,6.0,3.0,8.0,6.0,3.43,9,1.8571428571428572,0.1111111111111111
+VIS065,Female,Economics,Total Blindness,Mild,No,High,High,Frequent,No,Middle,28.0,3.0,1.0,3.0,6.0,9.0,8.0,9.0,6.8,67.4,86.0,6.0,8,9.0,3.0,7.0,4.0,3.03,9,1.5,0.6666666666666666
+VIS066,Female,Social Sciences,Partial Blindness,Mild,No,Low,High,Occasional,No,Low,21.0,6.0,20.0,4.6,3.0,5.0,10.0,6.0,1.3,94.0,95.0,2.0,6,9.0,10.0,6.0,4.0,2.98,5,1.6,0.2857142857142857
+VIS067,Female,Education,Total Blindness,Moderate,No,High,High,Frequent,No,Middle,29.0,3.0,22.0,5.0,9.0,10.0,10.0,9.0,9.7,58.0,93.0,8.0,5,4.0,6.0,3.0,7.0,3.52,9,2.6,1.3333333333333333
+VIS068,Female,English Literature,Progressive Vision Loss,Severe,No,Low,Medium,Occasional,No,Low,30.0,7.0,10.6,6.0,2.0,8.0,9.0,6.0,3.6,95.0,68.0,9.0,9,9.0,3.0,5.0,4.0,1.91,4,1.4,0.9
+VIS069,Female,Psychology,Low Vision,Severe,No,High,Medium,Frequent,No,High,21.0,8.0,10.0,8.0,10.0,6.0,8.0,9.0,9.4,55.0,69.0,2.0,6,1.0,7.0,3.0,2.0,3.02,8,5.5,0.2857142857142857
+VIS070,Female,Education,Color Blindness,Severe,Yes,Medium,Medium,Occasional,No,Low,30.0,8.0,21.0,6.0,5.0,3.0,10.0,4.0,3.1,75.0,91.0,10.0,7,2.0,6.0,3.0,2.0,2.08,6,4.333333333333333,1.25
+VIS071,Female,Economics,Progressive Vision Loss,Mild,No,High,High,Frequent,Yes,Middle,25.0,1.0,17.0,2.0,7.0,4.0,6.0,5.8,9.8,76.0,71.0,3.0,7,2.0,10.0,5.0,8.0,3.67,9,3.6666666666666665,0.375
+VIS072,Female,Psychology,Color Blindness,Severe,No,High,Medium,Frequent,Yes,Low,18.0,7.0,16.0,3.0,7.0,4.0,8.0,3.0,1.4,86.0,87.0,2.0,8,6.0,4.0,7.0,7.0,2.35,8,2.142857142857143,0.2222222222222222
+VIS073,Female,Education,Total Blindness,Mild,No,Low,High,Occasional,Yes,High,30.0,8.0,12.0,5.6,2.0,6.0,3.0,6.0,3.3,99.0,64.0,9.0,6,9.0,9.0,7.0,2.0,2.46,5,1.0,1.2857142857142858
+VIS074,Female,Education,Progressive Vision Loss,Moderate,No,Medium,Medium,Occasional,No,Middle,19.0,6.0,6.0,7.0,4.0,8.0,7.4,10.0,8.2,84.0,76.0,6.0,9,9.0,7.8,9.0,8.0,3.03,5,1.64,0.6
+VIS075,Female,Business Administration,Color Blindness,Mild,No,High,High,Frequent,Yes,Low,23.0,5.0,12.0,9.0,7.0,8.0,7.0,9.0,6.8,42.0,91.0,6.0,7,7.0,6.0,10.0,4.0,3.14,9,2.125,0.75
+VIS076,Female,Social Sciences,Partial Blindness,Mild,No,High,High,Frequent,No,Middle,27.0,8.0,17.0,7.0,7.0,7.0,3.0,4.0,4.3,100.0,81.0,1.0,7,8.0,7.0,5.0,5.0,3.31,9,0.8888888888888888,0.125
+VIS077,Female,Business Administration,Partial Blindness,Moderate,No,High,Medium,Frequent,No,Low,22.0,4.0,3.0,10.0,8.0,9.0,4.0,5.0,7.2,47.0,61.0,5.0,8,4.0,6.0,3.0,9.0,2.84,8,1.4,0.5555555555555556
+VIS078,Female,Education,Color Blindness,Severe,Yes,Medium,Medium,Frequent,No,High,25.0,2.0,1.0,10.0,6.0,5.0,8.0,4.0,2.1,94.0,55.0,3.0,8,9.0,5.0,8.0,10.0,2.21,8,1.6,0.3333333333333333
+VIS079,Female,Economics,Progressive Vision Loss,Moderate,No,High,Medium,Frequent,Yes,Middle,25.0,3.0,6.0,9.0,10.0,7.0,4.0,7.0,5.0,89.0,65.0,10.0,4,6.0,3.0,4.0,8.0,2.64,8,1.1428571428571428,2.0
+VIS080,Female,Law,Progressive Vision Loss,Moderate,No,Medium,Medium,Occasional,Yes,High,18.0,2.0,18.0,7.0,5.0,6.0,5.0,5.0,6.7,100.0,78.0,5.0,8,5.0,5.0,7.0,4.0,3.09,5,2.0,0.5555555555555556
+VIS081,Female,Law,Color Blindness,Moderate,No,Low,Medium,Occasional,No,Middle,27.0,3.0,8.0,3.0,2.0,8.4,5.0,3.0,5.5,56.0,86.0,4.0,8,7.0,5.8,8.0,2.0,2.62,4,1.625,0.4444444444444444
+VIS082,Female,Economics,Progressive Vision Loss,Moderate,Yes,Medium,Medium,Occasional,No,Low,29.0,1.0,4.0,9.0,5.0,6.0,5.0,9.0,9.8,78.0,54.0,6.0,8,6.0,7.0,10.0,9.0,3.09,6,2.142857142857143,0.6666666666666666
+VIS083,Female,Economics,Color Blindness,Moderate,Yes,High,Medium,Frequent,No,Middle,22.0,8.0,16.0,6.0,8.0,10.0,6.0,4.0,2.7,66.0,60.0,3.0,8,10.0,7.0,5.0,2.0,2.33,9,1.0,0.3333333333333333
+VIS084,Female,Mathematics,Color Blindness,Mild,No,Medium,High,Frequent,Yes,Middle,24.0,8.0,12.0,2.0,6.0,8.0,6.0,8.0,4.9,78.0,98.0,8.0,5,3.6,3.0,6.0,2.0,3.24,8,2.608695652173913,1.3333333333333333
+VIS085,Female,Mathematics,Total Blindness,Mild,No,High,High,Frequent,No,Low,26.0,4.0,18.0,10.0,9.0,9.0,8.0,4.0,9.8,57.0,97.0,10.0,7,2.0,4.0,7.0,8.0,3.57,9,5.0,1.25
+VIS086,Female,Psychology,Color Blindness,Mild,No,High,High,Frequent,No,High,26.0,7.0,20.0,7.0,9.0,9.0,3.0,3.0,9.4,69.0,54.0,10.0,8,3.0,7.0,3.0,4.0,3.04,9,1.5,1.1111111111111112
+VIS087,Female,Economics,Progressive Vision Loss,Moderate,No,Low,Medium,Occasional,No,Low,26.0,8.0,25.0,7.0,3.0,5.4,7.0,3.0,7.5,77.0,64.0,1.0,7,5.0,5.0,10.0,6.6,3.2,4,2.8333333333333335,0.125
+VIS088,Female,Education,Progressive Vision Loss,Severe,Yes,High,Medium,Frequent,No,High,21.0,1.0,7.0,6.2,8.0,3.0,4.0,3.0,8.9,66.0,89.0,4.0,6,10.0,9.0,6.0,9.0,2.53,9,0.9090909090909091,0.5714285714285714
+VIS089,Female,Education,Color Blindness,Moderate,No,Medium,Medium,Frequent,No,Middle,24.0,6.0,11.0,7.0,6.0,10.0,5.0,8.0,9.5,70.0,57.0,4.0,5,5.0,5.0,10.0,6.0,3.25,7,2.5,0.6666666666666666
+VIS090,Female,Economics,Total Blindness,Moderate,Yes,Medium,Medium,Occasional,No,Low,30.0,5.0,30.0,4.6,4.0,5.0,7.0,9.0,7.7,42.0,60.8,2.0,6,8.0,6.0,4.0,8.0,2.75,6,1.2222222222222223,0.2857142857142857
+VIS091,Female,Physics,Color Blindness,Mild,No,Low,High,Occasional,Yes,Middle,29.0,4.0,11.4,2.0,3.0,7.0,6.0,6.0,6.6,61.0,90.0,8.0,4,6.6,2.0,3.0,5.0,3.25,5,1.1842105263157896,1.6
+VIS092,Female,Law,Color Blindness,Moderate,Yes,Medium,Medium,Occasional,No,Low,28.0,1.0,21.0,8.0,4.0,1.0,4.0,3.0,1.1,93.0,70.0,8.0,5,5.0,2.0,6.0,4.0,2.23,6,1.6666666666666667,1.3333333333333333
+VIS093,Female,Economics,Total Blindness,Severe,No,Medium,Medium,Frequent,No,High,25.0,3.4,3.0,5.8,6.0,3.0,6.0,8.0,2.6,40.0,92.0,5.6,8,10.0,5.0,4.0,4.0,1.75,7,0.9090909090909091,0.6222222222222222
+VIS094,Female,Education,Low Vision,Mild,No,Medium,High,Occasional,No,Middle,20.0,8.0,4.0,8.0,5.0,8.0,8.0,3.0,3.4,88.0,62.0,6.0,6,10.0,2.0,6.0,6.0,2.618,6,1.2727272727272727,0.8571428571428571
+VIS095,Female,Education,Partial Blindness,Mild,No,Medium,High,Occasional,Yes,High,28.0,5.0,22.0,5.0,4.0,8.0,4.0,8.0,7.8,49.0,74.0,10.0,6,9.0,9.0,7.0,5.0,2.62,6,1.1,1.4285714285714286
+VIS096,Female,Social Sciences,Color Blindness,Moderate,Yes,Medium,Medium,Occasional,No,Low,29.0,6.0,3.0,10.0,5.0,10.0,4.0,3.0,2.0,74.0,54.0,3.0,6,9.0,9.0,4.0,10.0,2.41,6,0.8,0.42857142857142855
+VIS097,Female,Computer Science,Low Vision,Moderate,Yes,High,Medium,Frequent,Yes,Middle,26.0,7.0,16.0,2.0,8.0,5.0,10.0,10.0,4.1,92.0,80.4,4.0,7,1.0,8.0,3.0,6.0,2.91,9,6.5,0.5
+VIS098,Female,Psychology,Partial Blindness,Moderate,No,High,Medium,Frequent,Yes,Low,30.0,3.0,15.4,8.0,8.0,2.0,9.0,9.0,2.6,83.0,73.4,3.8,5,6.0,3.0,8.0,9.0,2.6,8,2.4285714285714284,0.6333333333333333
+VIS099,Female,Social Sciences,Low Vision,Severe,Yes,Medium,Medium,Occasional,Yes,Low,25.0,7.0,15.0,7.0,4.0,5.0,9.0,6.0,3.2,52.0,91.0,2.0,4,7.0,2.0,6.0,9.0,2.33,6,1.875,0.4
+VIS100,Female,Economics,Partial Blindness,Moderate,Yes,Medium,Medium,Frequent,No,Middle,24.0,8.0,14.0,10.0,6.0,4.0,6.0,3.0,3.1,92.0,91.0,10.0,6,10.0,7.0,6.0,4.0,2.3,8,1.0909090909090908,1.4285714285714286
+VIS101,Female,Education,Partial Blindness,Mild,No,High,High,Frequent,Yes,Middle,27.0,3.0,10.0,8.0,10.0,6.0,9.0,3.0,7.8,84.0,71.0,7.0,5,7.0,4.0,10.0,7.0,2.726,9,2.375,1.1666666666666667
+VIS102,Female,Law,Color Blindness,Severe,No,Medium,Medium,Occasional,Yes,Low,26.0,4.8,22.0,6.0,7.0,6.0,9.0,9.0,7.5,81.0,50.0,8.0,8,2.0,10.0,5.0,5.0,2.47,5,4.666666666666667,0.8888888888888888
+VIS103,Female,Economics,Total Blindness,Mild,No,High,High,Occasional,No,Middle,30.0,4.0,25.0,2.0,5.0,4.0,10.0,8.0,4.6,87.0,52.0,6.8,9,4.4,5.0,6.0,6.0,2.52,7,2.962962962962963,0.6799999999999999
+VIS104,Female,Social Sciences,Partial Blindness,Moderate,No,High,Medium,Frequent,Yes,Low,28.0,6.0,24.0,9.0,9.0,2.0,7.0,8.0,4.3,91.0,91.0,8.0,8,6.0,5.0,7.0,10.0,2.87,8,2.0,0.8888888888888888
+VIS105,Female,English Literature,Color Blindness,Mild,No,High,High,Frequent,No,Low,27.0,7.0,6.0,5.0,8.0,10.0,7.0,6.0,6.239999999999999,93.0,60.0,8.0,7,6.0,6.0,5.0,7.0,3.22,9,1.7142857142857142,1.0
+VIS106,Female,Mathematics,Low Vision,Mild,No,Low,High,Occasional,No,High,26.0,8.0,20.0,2.0,2.0,7.0,5.0,3.0,3.0,67.6,98.0,4.0,4,3.0,2.0,3.0,3.0,2.83,5,2.0,0.8
+VIS107,Female,Education,Progressive Vision Loss,Moderate,Yes,Low,Medium,Occasional,No,Middle,18.0,7.0,17.0,6.0,2.0,9.0,3.0,7.0,9.3,92.0,89.0,7.0,8,3.0,3.0,3.0,10.0,3.31,5,1.5,0.7777777777777778
+VIS108,Female,Computer Science,Partial Blindness,Mild,No,Medium,High,Frequent,No,Middle,24.0,2.0,3.0,5.0,6.0,2.0,8.0,8.0,6.0,81.0,99.0,1.0,4,7.0,5.0,9.0,5.0,3.55,8,2.125,0.2
+VIS109,Female,Education,Progressive Vision Loss,Moderate,No,Low,Medium,Occasional,No,Low,23.0,2.0,18.0,6.0,2.0,2.0,3.0,6.6,9.4,83.0,62.0,9.0,7,1.0,4.0,6.0,9.0,2.94,4,4.5,1.125
+VIS110,Female,Social Sciences,Color Blindness,Mild,No,High,High,Frequent,No,Low,27.0,4.0,25.0,3.0,10.0,6.0,9.0,9.0,6.4,43.0,51.0,7.0,5,2.0,7.0,8.0,4.0,2.94,9,5.666666666666667,1.1666666666666667
+VIS111,Female,Law,Partial Blindness,Moderate,Yes,High,Medium,Frequent,Yes,High,30.0,8.0,13.0,8.0,8.0,3.0,10.0,8.0,8.2,83.0,82.0,7.0,4,10.0,6.0,6.0,10.0,2.884,9,1.4545454545454546,1.4
+VIS112,Female,Business Administration,Total Blindness,Moderate,Yes,Medium,Medium,Frequent,Yes,High,23.0,2.0,18.0,7.0,6.0,2.0,4.0,7.0,5.6,48.0,50.0,3.0,6,9.0,10.0,3.0,9.0,2.34,8,0.7,0.42857142857142855
+VIS113,Female,Psychology,Low Vision,Moderate,No,High,Medium,Frequent,No,Middle,23.0,7.0,6.0,3.0,10.0,4.0,3.0,9.0,3.4,76.0,78.0,3.0,7,3.0,4.0,7.0,8.0,2.94,8,2.5,0.375
+VIS114,Female,Mathematics,Color Blindness,Moderate,No,High,Medium,Frequent,Yes,Middle,25.0,2.0,21.0,5.0,9.0,2.0,8.0,6.0,8.2,48.0,64.0,1.0,9,6.0,8.0,7.0,9.0,3.02,8,2.142857142857143,0.1
+VIS115,Female,Education,Partial Blindness,Moderate,Yes,Medium,Medium,Frequent,No,High,29.0,4.0,22.0,7.0,6.0,8.0,10.0,5.0,4.3,76.0,95.0,4.0,6,5.0,8.0,8.0,8.0,3.09,8,3.0,0.5714285714285714
+VIS116,Female,Physics,Progressive Vision Loss,Moderate,No,Medium,Medium,Occasional,No,High,29.0,4.0,17.0,9.0,4.0,5.0,10.0,4.0,5.0,55.0,61.0,3.0,8,7.0,3.0,7.2,8.0,2.64,5,2.15,0.3333333333333333
+VIS117,Female,Economics,Progressive Vision Loss,Mild,No,High,High,Frequent,Yes,Middle,23.0,2.0,23.0,2.0,5.6,6.0,4.0,8.0,5.6,90.0,72.0,2.0,4,5.0,5.0,6.0,4.0,3.35,9,1.6666666666666667,0.4
+VIS118,Female,English Literature,Low Vision,Moderate,No,High,Medium,Frequent,No,Middle,25.0,3.0,15.0,6.0,8.0,2.0,8.0,10.0,8.1,47.0,55.0,3.0,6,5.8,9.0,3.0,3.0,3.05,8,1.6176470588235294,0.42857142857142855
+VIS119,Female,Psychology,Partial Blindness,Mild,No,High,High,Frequent,No,Low,18.0,2.0,14.0,5.0,10.0,3.0,3.0,4.0,8.2,75.0,55.0,6.0,7,8.0,5.0,8.0,4.0,2.94,9,1.2222222222222223,0.75
+VIS120,Female,English Literature,Progressive Vision Loss,Moderate,No,Medium,Medium,Frequent,No,High,21.0,8.0,21.0,5.0,6.0,2.0,9.0,3.0,5.1,76.0,51.0,9.0,5,6.0,5.0,9.0,5.0,2.3,7,2.5714285714285716,1.5
+VIS121,Female,Social Sciences,Partial Blindness,Moderate,No,Low,Medium,Occasional,No,Middle,24.0,2.0,19.0,6.0,3.0,3.0,8.0,10.0,7.2,60.0,52.0,6.6,6,3.0,7.0,8.0,4.0,2.85,4,4.0,0.9428571428571428
+VIS122,Female,Economics,Progressive Vision Loss,Mild,No,High,High,Frequent,No,Middle,28.0,3.0,21.0,4.0,7.0,8.0,5.0,7.0,2.8,79.0,48.0,6.0,9,8.0,4.0,10.0,4.0,2.59,9,1.6666666666666667,0.6
+VIS123,Female,Business Administration,Total Blindness,Moderate,Yes,Medium,Medium,Frequent,No,High,24.0,8.0,18.0,5.0,6.0,1.0,10.0,4.0,5.9,57.0,59.0,9.0,5,8.0,9.0,5.0,5.6,2.11,8,1.6666666666666667,1.5
+VIS124,Female,Social Sciences,Color Blindness,Severe,No,High,Medium,Occasional,No,Low,18.0,8.0,6.0,6.2,2.0,8.0,6.0,4.0,2.9,56.0,67.0,2.0,6,2.0,5.0,9.0,5.4,2.34,6,5.0,0.2857142857142857
+VIS125,Female,Law,Partial Blindness,Severe,No,Medium,Medium,Frequent,Yes,Low,30.0,1.0,23.0,6.0,6.0,10.0,8.0,5.0,9.7,57.0,99.0,9.0,9,2.0,4.0,7.0,7.0,2.83,7,5.0,0.9
+VIS126,Female,Mathematics,Progressive Vision Loss,Mild,No,High,High,Frequent,Yes,High,23.0,4.0,1.0,8.0,8.0,8.0,9.0,5.0,5.1,44.0,85.0,2.0,6,5.0,7.0,10.0,6.0,3.32,9,3.1666666666666665,0.2857142857142857
+VIS127,Female,Computer Science,Low Vision,Severe,No,High,Medium,Frequent,No,Low,28.0,6.0,4.0,5.0,9.0,5.0,6.0,6.0,6.1,60.0,76.2,5.0,6,10.0,4.0,9.0,8.0,2.35,8,1.3636363636363635,0.7142857142857143
+VIS128,Female,Psychology,Low Vision,Mild,No,Medium,High,Frequent,No,High,20.0,8.0,13.0,4.0,6.0,3.0,10.0,9.0,4.3,95.0,62.0,2.0,7,5.0,3.0,6.0,5.0,3.23,8,2.6666666666666665,0.25
+VIS129,Female,Psychology,Color Blindness,Moderate,Yes,Low,Medium,Occasional,Yes,Middle,21.0,7.0,3.0,7.2,3.0,3.0,4.0,3.0,7.3,77.0,59.0,9.0,7,1.0,2.0,4.0,5.0,2.7,5,4.0,1.125
+VIS130,Female,English Literature,Total Blindness,Mild,No,High,High,Frequent,Yes,High,30.0,2.0,24.0,4.0,8.0,3.0,4.0,8.0,6.5,81.0,88.0,3.0,4,10.0,2.0,8.0,6.0,3.2,9,1.0909090909090908,0.6
+VIS131,Female,Computer Science,Total Blindness,Moderate,No,High,Medium,Frequent,Yes,High,24.0,8.0,7.0,3.0,5.2,6.0,6.0,7.4,6.0,67.0,65.0,3.0,5,2.0,5.0,4.0,4.0,2.93,8,3.3333333333333335,0.5
+VIS132,Female,Economics,Partial Blindness,Moderate,No,High,Medium,Frequent,No,Low,28.0,1.0,25.0,5.0,9.0,10.0,6.0,9.0,4.5,44.0,78.0,1.0,9,6.0,4.0,10.0,3.0,2.9,8,2.2857142857142856,0.1
+VIS133,Female,Economics,Progressive Vision Loss,Mild,No,High,Medium,Frequent,No,Low,28.2,1.0,5.0,8.0,10.0,5.0,6.2,3.0,1.7,80.0,90.0,9.0,8,7.0,4.0,6.0,2.0,2.64,8,1.525,1.0
+VIS134,Female,Psychology,Low Vision,Moderate,Yes,High,Medium,Frequent,Yes,High,21.4,3.4,1.0,6.0,8.0,4.0,5.0,9.0,6.5,43.0,60.0,2.0,9,2.0,9.0,8.0,3.0,2.93,9,4.333333333333333,0.2
+VIS135,Female,Business Administration,Color Blindness,Mild,No,Low,High,Occasional,No,Low,25.0,6.0,15.0,6.0,3.0,1.0,7.0,8.0,7.4,61.0,96.0,7.0,5,2.0,6.0,5.0,4.0,3.24,5,4.0,1.1666666666666667
+VIS136,Female,Computer Science,Progressive Vision Loss,Moderate,Yes,Medium,Medium,Occasional,No,Low,27.0,3.0,26.0,3.0,5.0,9.0,8.0,7.0,4.4,40.0,47.0,1.0,5,8.0,7.0,5.0,3.0,2.37,6,1.4444444444444444,0.16666666666666666
+VIS137,Female,Mathematics,Low Vision,Moderate,No,Low,Medium,Occasional,No,Low,24.0,6.0,18.0,10.0,2.0,3.0,7.0,8.0,8.9,54.0,96.0,9.0,9,7.0,3.0,7.2,3.0,2.7,4,1.775,0.9
+VIS138,Female,Computer Science,Color Blindness,Moderate,Yes,High,Medium,Frequent,Yes,Low,25.4,5.0,10.0,5.0,10.0,7.2,6.0,8.0,6.7,49.0,45.0,7.0,4,9.0,7.0,10.0,9.0,2.35,9,1.6,1.4
+VIS139,Female,Business Administration,Progressive Vision Loss,Moderate,Yes,Low,Medium,Occasional,No,Low,21.0,7.0,5.0,3.0,2.0,4.0,10.0,5.0,9.8,97.0,99.0,9.0,6,6.0,9.0,3.0,6.0,3.07,5,1.8571428571428572,1.2857142857142858
+VIS140,Female,Business Administration,Partial Blindness,Moderate,Yes,High,Medium,Frequent,No,Middle,18.0,7.0,15.0,7.0,8.0,6.0,5.0,7.0,8.0,60.0,73.0,5.0,5,4.0,4.0,6.0,6.0,3.02,9,2.2,0.8333333333333334
+VIS141,Female,Business Administration,Partial Blindness,Moderate,No,High,Medium,Occasional,No,High,26.0,6.0,12.0,6.0,3.0,2.0,6.0,7.0,2.9,50.0,96.0,6.8,8,10.0,2.0,10.0,9.0,2.34,6,1.4545454545454546,0.7555555555555555
+VIS142,Female,Psychology,Partial Blindness,Moderate,No,High,High,Frequent,No,High,22.0,5.0,13.0,10.0,10.0,4.0,5.0,9.0,1.1,46.0,74.0,2.0,8,3.0,3.0,3.0,9.0,2.98,9,2.0,0.2222222222222222
+VIS143,Female,Physics,Color Blindness,Moderate,No,High,Medium,Frequent,No,High,28.0,2.0,1.0,5.0,9.0,3.0,7.0,7.2,2.5,45.0,99.0,6.0,5,8.0,2.0,4.0,3.0,2.24,8,1.2222222222222223,1.0
+VIS144,Female,Business Administration,Total Blindness,Moderate,No,Low,Medium,Occasional,Yes,Middle,23.0,4.0,13.0,4.0,2.0,10.0,5.0,7.0,8.9,75.2,66.2,4.0,7,8.0,8.0,7.0,9.0,3.13,4,1.3333333333333333,0.5
+VIS145,Female,Education,Low Vision,Mild,No,High,High,Frequent,No,Low,30.0,4.0,29.0,8.0,9.0,6.0,3.0,8.0,1.2,98.0,81.0,9.0,6,5.0,4.0,9.0,9.0,2.94,9,2.0,1.2857142857142858
+VIS146,Female,Education,Progressive Vision Loss,Severe,Yes,Medium,Medium,Frequent,No,High,25.0,6.0,11.0,5.0,6.0,9.0,6.0,4.0,4.2,92.0,95.0,1.0,8,4.0,8.0,5.0,5.0,2.87,8,2.2,0.1111111111111111
+VIS147,Female,Mathematics,Color Blindness,Mild,No,High,High,Occasional,Yes,Middle,29.0,6.0,7.0,6.0,6.6,8.0,5.0,10.0,5.7,42.0,50.0,1.0,5,4.0,2.0,6.0,10.0,3.13,7,2.2,0.16666666666666666
+VIS148,Female,Physics,Color Blindness,Moderate,Yes,High,Medium,Frequent,No,Low,27.0,6.0,21.0,3.0,10.0,6.0,3.0,5.0,3.9,44.0,68.0,7.0,6,6.8,6.0,3.0,4.0,2.18,9,0.7692307692307693,1.0
+VIS149,Female,Education,Progressive Vision Loss,Moderate,No,Medium,Medium,Occasional,No,Low,26.0,6.0,4.0,6.0,4.0,3.0,6.0,9.0,2.6,86.0,45.0,10.0,6,10.0,2.0,5.0,6.0,1.87,5,1.0,1.4285714285714286
+VIS150,Female,Physics,Color Blindness,Moderate,Yes,High,Medium,Frequent,Yes,Middle,19.0,4.0,14.0,7.0,9.0,1.0,8.0,5.0,8.1,56.0,58.0,4.0,8,6.0,6.0,8.0,3.0,2.79,9,2.2857142857142856,0.4444444444444444
+VIS151,Female,Psychology,Color Blindness,Moderate,Yes,High,Medium,Frequent,Yes,High,24.0,6.0,15.4,4.0,9.0,2.0,9.0,10.0,9.6,91.0,99.0,1.0,6,6.0,6.0,4.0,5.0,3.64,9,1.8571428571428572,0.14285714285714285
+VIS152,Female,Law,Total Blindness,Severe,No,Medium,Medium,Occasional,Yes,Low,19.0,6.0,8.0,8.0,4.0,1.0,10.0,9.0,7.5,46.0,66.0,4.0,9,7.0,10.0,3.0,4.0,2.24,5,1.625,0.4
+VIS153,Female,English Literature,Low Vision,Moderate,No,Low,Medium,Occasional,No,Middle,26.0,8.0,10.0,8.0,3.0,5.0,5.0,8.0,2.9,92.0,87.0,10.0,6,2.0,2.0,3.0,2.0,2.58,4,2.6666666666666665,1.4285714285714286
+VIS154,Female,Business Administration,Low Vision,Moderate,Yes,High,Medium,Frequent,No,High,28.0,5.0,22.0,8.0,7.0,5.2,4.0,5.0,5.02,85.2,47.0,5.0,6,5.0,5.0,9.0,7.0,2.85,9,2.1666666666666665,0.7142857142857143
+VIS155,Female,English Literature,Partial Blindness,Moderate,Yes,Medium,Medium,Occasional,Yes,Low,30.0,4.0,6.0,9.0,5.0,8.0,3.0,9.0,6.1,59.0,50.0,7.0,8,1.0,10.0,9.0,10.0,2.84,6,6.0,0.7777777777777778
+VIS156,Female,Social Sciences,Progressive Vision Loss,Mild,No,Low,High,Occasional,No,Low,24.0,2.0,15.2,7.0,3.0,2.0,9.0,5.0,5.1,64.0,80.0,7.0,7,5.0,10.0,6.0,6.0,2.87,5,2.5,0.875
+VIS157,Female,Social Sciences,Progressive Vision Loss,Moderate,No,High,Medium,Frequent,Yes,Middle,20.0,2.0,13.0,7.0,8.0,5.0,4.0,7.0,2.5,64.0,86.0,8.0,7,8.0,2.0,4.0,10.0,2.32,8,0.8888888888888888,1.0
+VIS158,Female,Law,Color Blindness,Severe,No,High,Medium,Frequent,Yes,Low,23.4,4.0,20.0,2.0,7.0,5.0,3.0,7.0,2.2,59.0,62.0,8.0,8,2.0,5.0,10.0,7.0,1.91,8,4.333333333333333,0.8888888888888888
+VIS159,Female,Education,Low Vision,Moderate,Yes,High,Medium,Frequent,Yes,Middle,24.0,8.0,15.0,6.0,10.0,7.0,8.0,5.0,2.7,48.0,94.0,9.0,8,1.0,4.0,3.0,3.0,2.54,9,5.5,1.0
+VIS160,Female,Business Administration,Total Blindness,Moderate,Yes,High,Medium,Frequent,No,Low,22.0,6.0,1.0,5.0,7.0,8.0,10.0,4.0,4.1,78.0,73.0,3.0,9,8.0,10.0,9.0,2.0,2.75,9,2.111111111111111,0.3
+VIS161,Female,Education,Total Blindness,Mild,No,High,High,Frequent,No,High,27.0,4.0,20.0,8.0,10.0,1.0,6.0,6.0,6.4,95.0,94.0,1.0,6,3.0,4.0,6.0,6.0,3.84,9,3.0,0.14285714285714285
+VIS162,Female,Social Sciences,Color Blindness,Severe,No,Medium,Medium,Occasional,No,High,28.0,4.8,10.0,6.0,5.0,8.0,9.0,8.0,6.580000000000001,59.0,88.0,5.0,8,7.0,3.0,9.0,9.0,1.88,5,2.25,0.5555555555555556
+VIS163,Female,Psychology,Low Vision,Mild,No,Medium,High,Occasional,No,Middle,24.4,6.0,16.0,6.0,5.0,3.0,7.0,7.0,6.9,73.0,93.0,4.0,8,10.0,8.0,8.0,6.0,3.16,6,1.3636363636363635,0.4444444444444444
+VIS164,Female,Law,Progressive Vision Loss,Severe,No,High,Medium,Frequent,No,High,24.0,7.0,6.0,10.0,9.0,6.0,3.0,8.0,3.6,72.0,64.0,3.0,8,9.0,4.0,6.0,5.0,2.2,8,0.9,0.3333333333333333
+VIS165,Female,Economics,Low Vision,Mild,No,Medium,High,Frequent,No,High,23.0,4.0,22.0,6.0,6.0,8.0,7.0,8.0,5.2,94.0,52.0,8.0,4,10.0,3.0,9.0,7.0,2.78,8,1.4545454545454546,1.6
+VIS166,Female,Mathematics,Low Vision,Mild,No,Medium,High,Occasional,No,Middle,18.0,3.0,1.0,9.0,4.0,6.0,5.0,8.0,6.7,95.0,90.0,3.0,8,8.0,7.0,6.0,8.0,3.51,6,1.2222222222222223,0.3333333333333333
+VIS167,Female,Mathematics,Progressive Vision Loss,Mild,No,High,High,Frequent,Yes,High,30.0,3.0,7.0,8.0,8.0,7.0,5.0,4.0,7.6,66.0,68.8,7.0,4,9.0,5.0,10.0,4.0,3.0,9,1.5,1.4
+VIS168,Female,Economics,Progressive Vision Loss,Mild,No,High,High,Frequent,No,Middle,29.0,4.0,17.0,3.0,8.0,9.0,6.0,7.0,8.040000000000001,77.0,64.0,3.0,4,1.0,6.0,8.0,4.0,3.76,9,7.0,0.6
+VIS169,Female,Computer Science,Color Blindness,Severe,No,Low,Medium,Occasional,No,High,20.0,5.2,9.0,8.0,2.0,4.0,10.0,6.0,2.5,54.0,91.0,3.0,5,1.0,10.0,8.0,4.0,2.47,4,9.0,0.5
+VIS170,Female,Economics,Total Blindness,Severe,Yes,High,Medium,Frequent,Yes,Middle,28.0,2.0,20.0,9.0,8.0,2.0,3.0,5.6,3.7,75.0,61.0,8.0,8,4.0,2.0,3.0,8.0,2.01,9,1.2,0.8888888888888888
+VIS171,Female,English Literature,Total Blindness,Severe,No,Medium,Medium,Occasional,Yes,Low,19.0,2.0,8.0,5.0,5.0,5.0,7.0,4.0,2.4,93.0,78.0,4.0,6,7.0,6.0,4.0,9.0,2.25,5,1.375,0.5714285714285714
+VIS172,Female,Mathematics,Color Blindness,Moderate,No,Medium,Medium,Occasional,Yes,Low,19.0,8.0,4.0,6.0,5.0,8.0,5.0,4.0,8.7,58.0,61.0,8.0,4,3.0,2.0,4.0,3.0,2.72,5,2.25,1.6
+VIS173,Female,English Literature,Color Blindness,Mild,No,High,High,Frequent,Yes,Low,20.0,3.0,11.4,3.0,7.0,6.0,8.0,10.0,8.5,51.0,52.0,7.0,6,8.0,6.0,8.0,6.0,2.85,9,1.7777777777777777,1.0
+VIS174,Female,Business Administration,Total Blindness,Moderate,No,High,Medium,Frequent,Yes,High,18.0,3.0,11.0,4.0,8.0,6.0,4.0,10.0,9.0,79.0,46.0,5.6,6,8.0,3.0,9.0,9.0,3.01,8,1.4444444444444444,0.7999999999999999
+VIS175,Female,English Literature,Color Blindness,Severe,Yes,High,Medium,Frequent,Yes,Middle,26.0,4.0,10.6,9.0,6.0,7.0,8.0,9.0,1.1,49.0,98.0,9.0,8,10.0,2.0,4.0,5.0,1.69,9,1.0909090909090908,1.0
+VIS176,Female,Computer Science,Low Vision,Moderate,No,Low,Medium,Occasional,No,Low,23.0,5.0,13.0,5.0,3.0,8.0,3.0,9.0,3.8,68.0,96.0,10.0,6,8.0,9.0,6.0,5.4,2.34,4,1.0,1.4285714285714286
+VIS177,Female,English Literature,Low Vision,Moderate,No,Low,Medium,Occasional,Yes,Low,18.0,2.0,4.0,7.0,2.0,4.0,7.0,10.0,7.4,94.0,74.0,6.0,7,10.0,9.0,6.0,7.0,2.8,4,1.1818181818181819,0.75
+VIS178,Female,Mathematics,Low Vision,Moderate,Yes,Medium,Medium,Occasional,No,Low,28.0,5.0,25.0,9.0,4.0,7.0,7.0,3.0,2.9,46.0,61.0,10.0,5,2.0,8.0,4.0,4.0,2.15,6,3.6666666666666665,1.6666666666666667
+VIS179,Female,Psychology,Low Vision,Severe,Yes,High,Medium,Frequent,No,High,28.0,2.0,13.0,2.0,10.0,1.0,10.0,5.0,4.46,75.0,74.4,10.0,6,7.8,4.0,10.0,9.0,2.1,9,2.2727272727272725,1.4285714285714286
+VIS180,Female,Education,Progressive Vision Loss,Moderate,No,Medium,Medium,Occasional,No,Low,24.0,4.0,23.0,9.0,4.0,3.0,7.0,8.0,7.4,66.0,83.0,9.0,6,9.0,7.0,9.0,6.0,2.19,5,1.6,1.2857142857142858
+VIS181,Female,Economics,Low Vision,Moderate,No,High,Medium,Frequent,No,Low,28.0,3.0,1.0,10.0,6.8,10.0,5.0,4.0,8.9,76.0,87.0,7.0,7,9.0,6.0,8.0,7.0,3.07,8,1.3,0.875
+VIS182,Female,Economics,Partial Blindness,Mild,No,Low,High,Occasional,No,Low,18.0,4.0,18.0,4.0,2.0,5.0,7.0,7.0,6.5,53.0,93.0,9.0,4,8.0,3.0,7.6,6.0,2.7,5,1.6222222222222222,1.8
+VIS183,Female,Economics,Progressive Vision Loss,Moderate,No,High,Medium,Frequent,Yes,Middle,30.0,5.0,7.0,7.0,10.0,1.0,3.0,9.0,9.2,40.0,92.0,5.0,5,8.0,5.0,9.0,8.0,2.92,8,1.3333333333333333,0.8333333333333334
+VIS184,Female,Psychology,Total Blindness,Moderate,Yes,High,Medium,Frequent,Yes,High,28.0,2.0,20.0,2.0,8.0,5.0,5.0,4.0,4.0,75.0,61.0,3.0,5,5.0,2.0,5.0,8.0,2.67,9,1.6666666666666667,0.5
+VIS185,Female,Education,Total Blindness,Moderate,No,Medium,Medium,Occasional,No,Middle,28.0,5.0,11.0,10.0,5.0,3.0,10.0,4.0,4.6,73.0,49.0,9.0,5,9.0,10.0,8.0,7.0,2.19,5,1.8,1.5
+VIS186,Female,Law,Low Vision,Mild,No,Medium,High,Occasional,No,Low,30.0,8.0,30.0,5.0,6.2,1.0,3.0,8.0,3.3,83.0,65.0,7.0,9,2.0,8.0,4.0,9.0,2.86,6,2.3333333333333335,0.7
+VIS187,Female,Physics,Low Vision,Severe,Yes,Low,Medium,Occasional,No,High,25.0,8.0,7.0,10.0,3.0,2.0,3.0,6.0,7.0,50.0,94.0,9.0,7,2.0,5.0,7.0,7.0,2.37,5,3.3333333333333335,1.125
+VIS188,Female,English Literature,Color Blindness,Severe,No,Low,Medium,Occasional,No,Low,19.0,3.0,14.0,3.0,3.0,1.0,3.0,8.0,9.2,51.0,95.0,5.0,7,10.0,5.0,10.0,2.0,2.26,4,1.1818181818181819,0.625
+VIS189,Female,Psychology,Color Blindness,Moderate,No,Low,Medium,Occasional,Yes,High,19.0,1.0,8.0,10.0,3.0,5.0,4.0,4.0,4.4,90.0,88.0,5.0,7,5.0,5.2,3.0,7.0,2.87,4,1.1666666666666667,0.625
+VIS190,Female,Education,Color Blindness,Moderate,Yes,High,Medium,Frequent,No,High,30.0,5.0,7.0,10.0,10.0,3.0,5.0,8.0,5.9,47.0,47.0,1.0,7,7.0,10.0,7.0,7.0,2.68,9,1.5,0.125
+VIS191,Female,Business Administration,Partial Blindness,Severe,Yes,Medium,Medium,Occasional,No,Middle,20.0,3.0,19.0,3.0,4.0,10.0,5.0,7.0,3.6,94.0,48.0,9.0,6,9.0,3.0,6.0,5.0,1.76,6,1.1,1.2857142857142858
+VIS192,Female,Computer Science,Total Blindness,Moderate,No,High,Medium,Frequent,Yes,Low,28.0,4.0,8.0,7.0,9.0,8.0,4.0,4.0,8.3,61.0,84.0,5.0,8,3.0,7.0,7.0,5.0,3.18,8,2.75,0.5555555555555556
+VIS193,Female,Education,Total Blindness,Moderate,Yes,High,Medium,Frequent,Yes,High,24.0,5.0,24.0,5.0,9.0,6.0,8.0,8.0,8.6,89.0,72.2,8.0,7,3.0,3.0,5.0,9.0,3.2,9,3.25,1.0
+VIS194,Female,Economics,Low Vision,Mild,No,High,High,Frequent,No,High,18.0,1.0,9.8,6.0,10.0,9.0,9.0,3.0,2.2,70.0,86.0,3.0,6,4.0,6.0,6.0,10.0,3.25,9,3.0,0.42857142857142855
+VIS195,Female,Education,Progressive Vision Loss,Mild,No,High,High,Frequent,No,Middle,21.0,3.0,12.0,4.0,9.0,6.0,5.0,5.0,3.1,42.0,59.0,8.0,5,5.0,7.0,10.0,4.0,2.44,9,2.5,1.3333333333333333
+VIS196,Female,Physics,Total Blindness,Severe,Yes,Medium,Medium,Occasional,No,Middle,18.0,1.0,12.0,10.0,4.0,7.0,8.0,7.0,3.3,81.0,69.0,6.0,7,2.0,10.0,4.0,6.0,3.2119999999999997,6,4.0,0.75
+VIS197,Female,Business Administration,Color Blindness,Severe,No,Medium,Medium,Frequent,No,Low,18.0,3.0,16.0,10.0,7.2,4.0,10.0,6.0,4.7,49.0,56.0,3.0,6,2.0,5.0,5.0,3.0,2.36,7,5.0,0.42857142857142855
+VIS198,Female,Social Sciences,Low Vision,Moderate,No,Medium,Medium,Occasional,No,Low,28.0,7.0,24.0,4.0,4.0,9.0,3.0,3.0,5.6,42.0,81.0,3.0,4,5.0,4.0,6.0,4.0,2.66,5,1.5,0.6
+VIS199,Female,Education,Color Blindness,Mild,No,Medium,High,Occasional,Yes,Low,27.0,8.0,13.0,4.0,4.0,10.0,10.0,6.0,6.4,82.0,77.0,5.0,5,6.0,9.0,8.0,8.0,3.29,6,2.5714285714285716,0.8333333333333334
+VIS200,Female,Physics,Progressive Vision Loss,Mild,No,High,High,Frequent,No,Low,26.0,7.0,14.0,2.0,5.2,9.0,5.0,5.0,8.4,88.0,52.0,2.0,6,3.0,10.0,4.0,9.0,3.62,9,2.25,0.2857142857142857
